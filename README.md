@@ -1,7 +1,7 @@
 
 <div align=center>
 
-# <img src="https://cdn.discordapp.com/attachments/751304558453719176/936194213199093810/rsz_1rsz_1apple_logo_greysvg.png" alt="Apple Logo" width="20" height="24"> Fortnite iOS Archive
+# <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Apple_logo_white.svg/1200px-Apple_logo_white.svg.png" alt="Apple Logo" width="20" height="24"> Fortnite iOS Archive
 An archive full of iOS IPA files.
 
 </div>
